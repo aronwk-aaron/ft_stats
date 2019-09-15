@@ -1,0 +1,9 @@
+venv/**
+mods.csv
+artifacts.csv
+deploys.csv
+glyphs.csv
+hacks.csv
+walks.csv
+
+\.vscode/

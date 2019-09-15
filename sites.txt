@@ -1,0 +1,6 @@
+https://storage.googleapis.com/ingress-internal-event-data/field-test/hexathlon/BirminghamALUSA_glyph_hack_points_b106e4f0-3307-5aad-b584-6627be7784c5.html
+https://storage.googleapis.com/ingress-internal-event-data/field-test/hexathlon/BirminghamALUSA_kilometers_walked_7f06b352-13e3-5f00-aeca-6164c2ec52d2.html
+https://storage.googleapis.com/ingress-internal-event-data/field-test/hexathlon/BirminghamALUSA_artifacts_250e1203-3ad3-5b54-a1af-c40fcb9f87d9.html
+https://storage.googleapis.com/ingress-internal-event-data/field-test/hexathlon/BirminghamALUSA_hacks_be40f291-f010-573e-8303-2274b205c59b.html
+https://storage.googleapis.com/ingress-internal-event-data/field-test/hexathlon/BirminghamALUSA_mods_deployed_23e29805-d629-524b-87c0-9c911dc73810.html
+https://storage.googleapis.com/ingress-internal-event-data/field-test/hexathlon/BirminghamALUSA_deploys_fa59f6f7-db63-57e8-8749-e490654c267e.html
