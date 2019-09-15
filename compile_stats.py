@@ -15,17 +15,6 @@ try:
         html = page.read()
         soup = BeautifulSoup(html, features='html.parser')
         table = soup.select_one('table.leaderboard')
-        #  SO UGLY
-#         no_head = table.replace(
-#         '<table class="leaderboard">\n\
-# <thead><tr>\n\
-# <td>Rank</td><td>Agent</td><td>Score</td>\n\
-# </tr></thead>\n\
-# <tbody>\n\
-# ','')
-#         no_head_and_foot = no_head.replace('\n</tbody></table>', '')
-#         print(no_head_and_foot)
-#         pocket_lists[cnt] = no_head_and_foot
         pocket_lists[cnt] = table
 
 finally:
